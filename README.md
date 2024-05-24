@@ -20,7 +20,7 @@ I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assu
   - Explored Embedded Software Programming and Industrial IoT.
   - Built an AI and ML deep learning tool that can Identify words and images, predict health status, recognize optical characters, and few more image processing tasks.
 
- ## Education 📚
+## Education 📚
 
 ### Southern Alberta Institute of Technology (SAIT) - School of Business
 - **Management and Leadership Certificate**
@@ -59,5 +59,5 @@ I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assu
  
 ## Let's Connect! 🌐
 
-- :speech_balloon: Feel free to reach out for collaboration or just to say hi!
-- :point_right: [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalnagaraj1998@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-nagaraj) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praj_nag) 
+- 💬 Feel free to reach out for collaboration or just to say hi!
+- 👉 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalnagaraj1998@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-nagaraj) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praj_nag) 
