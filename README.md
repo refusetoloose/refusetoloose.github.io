@@ -2,7 +2,7 @@
 I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assurance professional with a passion for leveraging data analytics to drive business insights and optimize processes. 
 
 ## Quick Overview 🌟
-- Currently Pursuing Management and Leadership Certificate from SAIT - School of Business, Expected Graduation Date Apr 2025 :mortar_board:
+- Currently Pursuing Management and Leadership Certificate from SAIT - School of Business, Expected Graduation Date Apr 2025 🎓
 - I'm eager to broaden my knowledge and hands-on skills in any position within the realm of IT and Data that intersects with business.
 
 ## Experience 💼
