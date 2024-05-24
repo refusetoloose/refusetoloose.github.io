@@ -23,18 +23,16 @@ I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assu
 ## Education 📚
 
 ### Southern Alberta Institute of Technology (SAIT) - School of Business
-- **Management and Leadership Certificate**
-Expected Graduation: Apr 2025
+- **Management and Leadership Certificate** (🎓 Apr 2025)
   - **Relevant Courses:** Business Management, Business Administration, Project Management.
 
 
 ### Southern Alberta Institute of Technology (SAIT) - School for Advanced Digital Technology
-- **Post Graduation Diploma in Data Analytics**
-Graduated: Apr 2024
+- **Post Graduation Diploma in Data Analytics** (🎓 Apr 2024)
   - **Relevant Courses:** PowerBI, Tableau, Advanced Excel, SQL, Machine learning, Artificial intelligence, Probabilistic programming, Predictive and Prescriptive analytics, Statistical Analysis, Business Intelligence Reporting, Business Analytics.
 
 ### Visvesvaraya Technological University (VTU)
-- **Bachelor's in Electronics and Instrumentation Engineering**
+- **Bachelor's in Electronics and Instrumentation Engineering** (🎓 Aug 2021)
   - **Relevant Courses:** Instrumentation, Analog Circuits, Mechatronics, Robotics and Automation, Digital Image Processing, Operating Systems, Data Structures, OOPs with C & C++, Big Data & Cloud computing, Embedded Programming.
 
 ## Skills 🛠️
