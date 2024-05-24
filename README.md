@@ -6,19 +6,21 @@ I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assu
 - I'm eager to broaden my knowledge and hands-on skills in any position within the realm of IT and Data that intersects with business.
 
 ## Experience 💼
-
 ### Accenture Solutions Pvt Ltd
-
 - **Quality Engineer** 
   - Conducted functional, regression, and integration testing.
   - Collaborated with cross-functional teams to ensure quality integration throughout SDLC.
   - Used Selenium to run test automation scripts to monitor and evaluate functionality and identify UI related bugs.
     
 ### VI Solutions
-
 - **Intern** 
   - Explored Embedded Software Programming and Industrial IoT.
   - Built an AI and ML deep learning tool that can Identify words and images, predict health status, recognize optical characters, and few more image processing tasks.
+ 
+### Prajwal Enterprises
+- **Computer Support Technician**
+  - Provided technical support and service desk assistance, specializing in computer system and laptop sales, repair, and custom PC building.
+  - Demonstrated effective leadership by overseeing a team of three employees and assisted with income tax e-filing for clients.
 
 ## Education 📚
 
@@ -26,7 +28,6 @@ I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assu
 - **Management and Leadership Certificate**
   - Expected Graduation: Apr 2025 🎓
   - **Relevant Courses:** Business Management, Business Administration, Project Management.
-
 
 ### Southern Alberta Institute of Technology (SAIT) - School for Advanced Digital Technology
 - **Post Graduation Diploma in Data Analytics**
@@ -48,7 +49,6 @@ I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assu
 
 - **AESO Energy Consumption Analysis**
   - Analyzed energy consumption data and developed predictive models to support sustainable practices.
-
 - **Intelligent Packaging Solution for Safe and Secured Delivery (https://www.researchgate.net/profile/Prajwal_Nagaraj2/research)**
   - Developed a packaging model for eCommerce companies to ensure safe and secure product delivery.
   - Recognized with the best paper award from the International Journal of Advanced Research in Science, Communication, and Technology(IJARSCT).
