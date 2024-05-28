@@ -52,10 +52,11 @@ I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assu
 - **AESO Energy Consumption Analysis**
   - Analyzed energy consumption data and developed predictive models to support sustainable practices.
 - **NYPD Stop Question and Frisk**
-  - Analyzed energy consumption data and developed predictive models to support sustainable practices.
-- **Calgary Housing Market Analysis 2023**
   - In this project, I analyzed the NYPD Stop, Question, and Frisk (SQF) data to understand patterns and factors associated with police encounters in New York City. 
   - Leveraging machine learning models, I predicted outcomes such as arrest likelihood and the potential use of force during encounters.
+- **Calgary Housing Market Analysis 2023**
+  - This project presents a detailed analysis of the 2023 Calgary housing market by leveraging datasets from Kaggle and Calgary Open Data.
+  - It offers valuable information on trends, pricing, and demographic influences, aiding informed decision-making for real estate agencies, homeowners, and investors.
 - **Intelligent Packaging Solution for Safe and Secured Delivery (https://www.researchgate.net/profile/Prajwal_Nagaraj2/research)**
   - Developed a packaging model for eCommerce companies to ensure safe and secure product delivery.
   - Recognized with the best paper award from the International Journal of Advanced Research in Science, Communication, and Technology(IJARSCT).
