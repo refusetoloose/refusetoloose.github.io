@@ -34,7 +34,7 @@ gaining hands-on experience with data-driven techniques to improve business insi
 ### Management and Leadership Certificate
 - **Southern Alberta Institute of Technology (SAIT) - School of Business**
   - Expected Completion: Apr. 2025 🎓
-  - **** Business Management, Business Case and Strategy, Orgnaization Behaviour, Project Management, Human Resource Management, Financial Accounting, Statistics, Leadership, Change Management, Intercultural Communications.
+  - **Key Courses:** Business Management, Business Case and Strategy, Orgnaization Behaviour, Project Management, Human Resource Management, Financial Accounting, Statistics, Leadership, Change Management, Intercultural Communications.
 
 ### Post Graduation Diploma in Data Analytics
 - **Southern Alberta Institute of Technology (SAIT) - School for Advanced Digital Technology**
