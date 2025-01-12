@@ -1,9 +1,10 @@
 ## About Me ℹ️
-I'm Prajwal Nagaraj, a Business Analyst entusiast and a experienced Quality Assurance professional with a passion for leveraging data analytics to drive business insights and optimize processes. 
+Hi, I’m Prajwal Nagaraj, a Data Analyst and Consultant with a strong foundation in engineering, data analytics, and management. I’m passionate about leveraging data-driven insights and strategic thinking to solve complex problems and drive impactful solutions.
 
 ## Quick Overview 🌟
 - Currently Pursuing Management and Leadership Certificate from SAIT - School of Business, Expected Graduation Date Apr 2025 🎓
-- I'm eager to broaden my knowledge and hands-on skills in any position within the realm of IT and Data that intersects with business.
+- Seeking to transition into data-driven and management roles and expand expertise and practical experience leveraging data to drive business insights and optimize processes
+- I'm eager to broaden my knowledge and hands-on skills in any position within the realm of IT, Data and Management that intersects with business.
 
 ## Experience 💼
 ### Accenture Solutions Pvt Ltd
@@ -46,7 +47,8 @@ gaining hands-on experience with data-driven techniques to improve business insi
 - **Visvesvaraya Technological University (VTU)**
   - Graduated: Aug 2021 🎓  
   - **Key Courses:** Instrumentation, Analog Circuits, Mechatronics, Robotics and Automation, Digital Image Processing, Operating Systems, Data Structures, OOPs with C & C++, Big Data & Cloud computing, Embedded Programming
-## Skills 
+
+### Skills 🛠️
 
 - **Quality Engineer (Manual & Automation Testing):** Functional Testing, Regression Testing, Integration Testing, Selenium Frameworks.
 - **Data Analysis & Visualization:** ETL Processes, Tableau, Power BI, SQL, Jupyter, Python, Pandas, NumPy, R, Excel.
