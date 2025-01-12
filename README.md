@@ -40,12 +40,11 @@ gaining hands-on experience with data-driven techniques to improve business insi
 ### Post Graduation Diploma in Data Analytics
 - **Southern Alberta Institute of Technology (SAIT) - School for Advanced Digital Technology**
   - Awarded: Jun. 2024 🎓
-  - GPA: 4/4
   - **Key Courses:** PowerBI, Tableau, Advanced Excel, SQL, Machine learning, Artificial intelligence, Probabilistic programming, Predictive and Prescriptive analytics, Statistical Analysis, Business Intelligence Reporting, Business Context & Analytics.
 
 ### Bachelor's in Electronics and Instrumentation Engineering
 - **Visvesvaraya Technological University (VTU)**
-  - Graduated: Aug 2021 🎓  
+  - Awarded: Aug. 2021 🎓  
   - **Key Courses:** Instrumentation, Analog Circuits, Mechatronics, Robotics and Automation, Digital Image Processing, Operating Systems, Data Structures, OOPs with C & C++, Big Data & Cloud computing, Embedded Programming
 
 ### Skills 🛠️
