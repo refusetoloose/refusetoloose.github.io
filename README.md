@@ -13,22 +13,22 @@ Hi, I’m Prajwal Nagaraj, a Data Analyst and Consultant with a strong foundatio
 ## Experience 💼
 ### Accenture Solutions Pvt Ltd
 - **Business Analyst** 
-- Gathered and documented business requirements for an investment banking project, collaborating with stakeholders, developers, UI/UX, and QA teams.
-- Created user stories in Confluence and worked with UI/UX teams in Figma to ensure seamless communication between business and technical teams.
-- Delivered presentations to stakeholders on requirements, project updates, and key insights.
-- Managed 200+ tickets in JIRA and Confluence, tracking issues and ensuring timely resolution.
-- Assisted in UAT testing and validation, ensuring the final product met business needs.
-- Provided regular updates in 50+ team meetings, keeping stakeholders aligned.
+  - Gathered and documented business requirements for an investment banking project, collaborating with stakeholders, developers, UI/UX, and QA teams.
+  - Created user stories in Confluence and worked with UI/UX teams in Figma to ensure seamless communication between business and technical teams.
+  - Delivered presentations to stakeholders on requirements, project updates, and key insights.
+  - Managed 200+ tickets in JIRA and Confluence, tracking issues and ensuring timely resolution.
+  - Assisted in UAT testing and validation, ensuring the final product met business needs.
+  - Provided regular updates in 50+ team meetings, keeping stakeholders aligned.
 
 ### Accenture Solutions Pvt Ltd
 - **Quality Engineer / QA** 
-- Worked closely with Business Analysts, Developers, and QA teams to ensure quality across a year-long financial sector project.
-- Designed and executed 100+ test cases for Functional, Integration, and Regression testing.
-- Logged and managed 200+ defects in JIRA and Confluence, ensuring timely fixes.
-- Ran 150+ automated test scripts with Selenium, improving testing efficiency by 25% and reducing cycle time by 10%.
-- Provided regular test reports and sign-offs in 50+ team meetings, ensuring on-time releases.
-- Helped improve testing processes, leading to fewer post-release issues.
-- Contributed to a major investment banking project, ensuring high software quality before release.
+  - Worked closely with Business Analysts, Developers, and QA teams to ensure quality across a year-long financial sector project.
+  - Designed and executed 100+ test cases for Functional, Integration, and Regression testing.
+  - Logged and managed 200+ defects in JIRA and Confluence, ensuring timely fixes.
+  - Ran 150+ automated test scripts with Selenium, improving testing efficiency by 25% and reducing cycle time by 10%.
+  - Provided regular test reports and sign-offs in 50+ team meetings, ensuring on-time releases.
+  - Helped improve testing processes, leading to fewer post-release issues.
+  - Contributed to a major investment banking project, ensuring high software quality before release.
     
 ### VI Solutions
 - **Intern** 
