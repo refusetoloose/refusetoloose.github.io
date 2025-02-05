@@ -45,20 +45,20 @@ gaining hands-on experience with data-driven techniques to improve business insi
 
 ### Management and Leadership Certificate
 - **Southern Alberta Institute of Technology (SAIT) - School of Business**
-  - Awarded: Apr. 2025 🎓
+  - **Awarded:** Apr. 2025 🎓
   - **Key Courses:** Business Management, Business Case and Strategy, Orgnaization Behaviour, Project Management, Human
 Resource Management, Financial Accounting, Leadership, Change & Conflict Management, Intercultural Communications.
 
 ### Post Graduation Diploma in Data Analytics
 - **Southern Alberta Institute of Technology (SAIT) - School for Advanced Digital Technology**
-  - Awarded: Jun. 2024 🎓
+  - **Awarded:** Jun. 2024 🎓
   - **Awards:** Recognized on the President’s Honors List with a Star (2023-2024) for achieving a perfect 4.0 GPA.
   - **Key Courses:** PowerBI, Tableau, Advanced Excel, SQL, Machine learning, Artificial intelligence, Probabilistic programming, Predictive and Prescriptive analytics, Statistical Analysis, Business Intelligence Reporting, Business Context & Analytics.
 
 
 ### Bachelor's in Electronics and Instrumentation Engineering
 - **Visvesvaraya Technological University (VTU)**
-  - Awarded: Aug. 2021 🎓 
+  - **Awarded:** Aug. 2021 🎓 
   - **Awards:** Certificate of Merit for outstanding performance in the IoT Challenge at Techfest 2016, IIT Bombay.
   - **Key Courses:** Instrumentation, Analog Circuits, Mechatronics, Robotics and Automation, Digital Image Processing,
 Operating Systems, Data Structures, OOPs with C & C++, Big Data & Cloud computing, Embedded Programming
@@ -77,9 +77,9 @@ Operating Systems, Data Structures, OOPs with C & C++, Big Data & Cloud computin
 
 ## Projects 🚧
 - **Strategic Business Analysis for Pason Systems Inc.**  
- - Conducted analysis of Pason Systems Inc., using Annual Reports, SWOT analysis, PESTLE framework, and Porter’s Five Forces to identify areas of improvements, critical risks and opportunities.
- - Proposed strategies for transitioning to low-carbon energy and enhancing cybersecurity resilience.
- - Designed integration plans for acquisitions with a focus on IT security aligned with strategic planning objectives.
+  - Conducted analysis of Pason Systems Inc., using Annual Reports, SWOT analysis, PESTLE framework, and Porter’s Five Forces to identify areas of improvements, critical risks and opportunities.
+  - Proposed strategies for transitioning to low-carbon energy and enhancing cybersecurity resilience.
+  - Designed integration plans for acquisitions with a focus on IT security aligned with strategic planning objectives.
 - **Strategic Marketing Planning for a Small-Scale Business in Canada**  
   - Developed a SMART digital marketing strategy to increase website traffic by 30% and applications from diverse backgrounds by 15% by 2026.  
   - Recommended Lewin's Change Model to improve internal communication and strategy implementation.  
