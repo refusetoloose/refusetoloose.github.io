@@ -1,0 +1,1248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal Portfolio</title>
+
+  <!--
+    - favicon
+  -->
+  <link rel="shortcut icon" href="./assets/images/logo.ico" type="image/x-icon">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+
+  <!--
+    - custom css link
+  -->
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  <!--
+    - google font link
+  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <!--
+    - #MAIN
+  -->
+
+  <main>
+
+    <!--
+      - #SIDEBAR
+    -->
+
+    <aside class="sidebar" data-sidebar>
+
+      <div class="sidebar-info">
+
+        <figure class="avatar-box">
+          <img src="./assets/images/prajwal-avatar.png " alt="Prajwal Nagaraj" width="100">
+        </figure>
+
+        <div class="info-content">
+          <h1 class="name" title="Prajwal Nagaraj">Prajwal Nagaraj</h1>
+
+          <p class="title">Business Analyst | Data Consultant</p>
+        </div>
+
+        <button class="info_more-btn" data-sidebar-btn>
+          <span>Show Contacts</span>
+
+          <ion-icon name="chevron-down"></ion-icon>
+        </button>
+
+      </div>
+
+      <div class="sidebar-info_more">
+
+        <div class="separator"></div>
+
+        <ul class="contacts-list">
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="mail-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title">Email</p>
+
+              <a href="mailto:prajwalnagaraj1998@gmail.com" class="contact-link">prajwalnagaraj1998@gmail.com</a>
+            </div>
+
+          </li>
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="phone-portrait-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title">Phone</p>
+
+              <a href="tel:+13682992673" class="contact-link">+1 (368) 299-2673</a>
+            </div>
+
+          </li>
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="calendar-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title">Birthday</p>
+
+              <time datetime="1998-03-10">March, 1998</time>
+            </div>
+
+          </li>
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="location-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title">Location</p>
+
+              <address>Canada</address>
+            </div>
+
+          </li>
+
+        </ul>
+
+        <div class="separator"></div>
+
+        <ul class="social-list">
+
+          <li class="social-item">
+            <a href="https://www.linkedin.com/in/prajwal-nagaraj/" class="social-link">
+              <ion-icon name="logo-linkedin"></ion-icon>
+            </a>
+          </li>
+
+          <li class="social-item">
+            <a href="https://github.com/refusetoloose" class="social-link">
+              <ion-icon name="logo-github"></ion-icon>
+            </a>
+          </li>
+
+          <li class="social-item">
+            <a href="https://www.researchgate.net/profile/Prajwal_Nagaraj2" class="social-link" target="_blank">
+              <i class="fab fa-researchgate"></i>
+            </a>
+          </li>
+
+          <li class="social-item">
+            <a href="https://www.instagram.com/praj_nag/" class="social-link">
+              <ion-icon name="logo-instagram"></ion-icon>
+            </a>
+          </li>
+
+        </ul>
+
+      </div>
+
+    </aside>
+
+
+
+
+
+    <!--
+      - #main-content
+    -->
+
+    <div class="main-content">
+
+      <!--
+        - #NAVBAR
+      -->
+
+      <nav class="navbar">
+
+        <ul class="navbar-list">
+
+          <li class="navbar-item">
+            <button class="navbar-link  active" data-nav-link>About</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Resume</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Portfolio</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Blog</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Contact</button>
+          </li>
+
+        </ul>
+
+      </nav>
+
+
+
+
+
+      <!--
+        - #ABOUT
+      -->
+
+      <article class="about  active" data-page="about">
+
+        <header>
+          <h2 class="h2 article-title">About me</h2>
+        </header>
+
+        <section class="about-text">
+
+          <p>
+            I’m a <strong>data-driven problem solver</strong> with experience in <strong>business analysis, consulting, and analytics</strong> and I back that up with results.
+          </p>
+        
+          <p>
+            I’ve delivered impactful projects across energy forecasting, housing trends, nonprofit strategy, and CRM change management. At <strong>Accenture</strong>, I supported enterprise banking systems by managing 100+ JIRA tickets, writing user stories, and facilitating UAT in Agile teams.
+          </p>
+        
+          <p>
+            My technical toolkit includes:
+            <br>&nbsp;&nbsp;• <strong>Data & Visualization:</strong> Power BI, Tableau, SQL, Excel
+            <br>&nbsp;&nbsp;• <strong>Programming & Modeling:</strong> Python, R, Jupyter, Machine Learning
+            <br>&nbsp;&nbsp;• <strong>Testing:</strong> Selenium, Manual/Automation, UAT
+            <br>&nbsp;&nbsp;• <strong>Collaboration & Design:</strong> JIRA, Confluence, Figma
+          </p>
+        
+          <p>
+            I balance analytical thinking with stakeholder engagement and have maintained a <strong>4.0 GPA</strong> across two post-diploma programs. As an international student, I’ve developed resilience, leadership, and cross-functional teamwork.
+          </p>
+        
+          <p>
+            I’m currently open to full-time opportunities in <strong>Business Analysis</strong>, <strong>Data Analytics</strong>, or <strong>Consulting.</strong>
+            <br>
+            <strong>Available immediately under a 3-year Canadian PGWP</strong> (no sponsorship required).
+          </p>
+        
+          <p>
+            In my free time, I enjoy gaming, exploring new tech tools, and working on mini side projects that fuel my creativity and curiosity.
+          </p>
+        
+          <p>
+            🤝 Let’s connect<br>
+            I’m always open to collaboration, innovation, and solving meaningful problems together.
+          </p>
+        
+        </section>
+        
+
+
+        <!--         
+          - service
+        -->
+
+        <section class="service">
+
+          <h3 class="h3 service-title">What I’m Doing</h3>
+        
+          <ul class="service-list">
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-ba.svg" alt="analysis icon" width="40">
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Business Analysis</h4>
+                <p class="service-item-text">
+                  Gathering requirements, creating documentation, and supporting Agile teams with clear user stories and workflows.
+                </p>
+              </div>
+
+            </li>
+        
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-insights.svg" alt="data icon" width="40">
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Data Analysis & Visualization</h4>
+                <p class="service-item-text">
+                  Analyzing data and building dashboards in Power BI & Tableau to uncover trends and drive informed decisions.
+                </p>
+              </div>
+
+            </li>
+        
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-ml.svg" alt="ML icon" width="40">
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Machine Learning Projects</h4>
+                <p class="service-item-text">
+                  Applying ML techniques in Python for forecasting, NLP, and bias detection in real-world datasets.
+                </p>
+              </div>
+
+            </li>
+        
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-change.svg" alt="consulting icon" width="40">
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Strategy & Change Consulting</h4>
+                <p class="service-item-text">
+                  Supporting transformation initiatives through stakeholder engagement, KPI tracking, and structured change frameworks.
+                </p>
+              </div>
+
+            </li>
+        
+          </ul>
+        
+        </section>
+
+
+        <!--
+          - recommendations
+        -->
+
+        <section class="testimonials">
+
+          <h3 class="h3 testimonials-title">Recommendations</h3>
+
+          <ul class="testimonials-list has-scrollbar">
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-1.png" alt="Sadeem Shaikh" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Sadeem Shaikh</h4>
+
+                <time style="display: none;" data-testimonials-date>2024-04-07</time>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    If you'd like a reliable, goal-oriented, and self-actualized individual to join your team, Prajwal would be the perfect choice. 
+                    In my time working with Prajwal, I've come to know him as a promising individual with a unique combination of technical and interpersonal prowess. 
+                    Prajwal takes calculated decisions from a moral and cost-effective standpoint, 
+                    and he always keeps his team and employer at the forefront of his continuous improvement mindset. 
+                    I am proud to have worked with Prajwal and would gladly do so again!
+                  </p>
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-2.png" alt="Nermine Aladdin" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Nermine Aladdin</h4>
+                <span style="display: none;" data-modal-name>Nermine Aladdin Mahmoud</span>
+                <time style="display: none;" data-testimonials-date>2024-05-03</time>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    I have had the pleasure of mentoring Prajwal Nagaraj during their time as a data analyst student, and I am delighted to provide my highest recommendation.<br><br>
+                    During Prajwal's time as a Data Analyst Student at SAIT, Prajwal demonstrated very good proficiency in analyzing data and extracting actionable insights. Their keen attention to details, strong problem-solving abilities, and proficiency in data analysis tools and the Python programming language have been impressive.<br><br>
+                    Prajwal possesses a natural curiosity and enthusiasm for tackling complex data challenges, and their ability to communicate insights effectively has been invaluable. They approach every task with enthusiasm, professionalism, and a commitment to excellence. As a team member, Prajwal has been a reliable and proactive contributor, consistently delivering high-quality results.<br><br>
+                    I have no doubt that Prajwal Nagaraj will excel in any data analyst role they undertake. Their passion for data analysis, coupled with their strong technical skills and exemplary work ethic, make them a standout candidate. I highly recommend Prajwal for opportunities in the field of data analysis and am confident that they will make significant contributions to any organization.
+                  </p>
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-5.png" alt="Vilas Sangle" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Vilas Sangle</h4>
+
+                <time style="display: none;" data-testimonials-date>2023-09-07</time>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    Prajwal had done a fantastic job in a recent project where we worked together. As a mentor for him I found it very easy to leverage his knowledge for our project. Prajwal is a very proactive, quick learner, and responsible professional. He has very good interpersonal skills. He respects his team very well. Prajwal is calm in nature and so he's able to capture things very well. Prajwal's technical and analytical skills are very strong which makes him and stands him very differently among others. All the best for your future assignments Prajwal.
+                  </p>
+                </div>
+
+              </div>
+            </li>
+
+            <!-- <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-4.png" alt="Name" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Name</h4>
+
+                <time style="display: none;" data-testimonials-date>2023-09-07</time>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    
+                  </p>
+                </div>
+
+              </div>
+            </li> -->
+
+          </ul>
+
+        </section>
+
+
+        <!--
+          - testimonials modal
+        -->
+
+        <div class="modal-container" data-modal-container>
+
+          <div class="overlay" data-overlay></div>
+
+          <section class="testimonials-modal">
+
+            <button class="modal-close-btn" data-modal-close-btn>
+              <ion-icon name="close-outline"></ion-icon>
+            </button>
+
+            <div class="modal-img-wrapper">
+              <figure class="modal-avatar-box">
+                <img src="./assets/images/avatar-1.png" alt="Sadeem Shaikh" width="80" data-modal-img>
+              </figure>
+
+              <img src="./assets/images/icon-quote.svg" alt="quote icon">
+            </div>
+
+            <div class="modal-content">
+
+              <h4 class="h3 modal-title" data-modal-title>Sadeem Shaikh</h4>
+
+              <time datetime="2025-04-07">07 April, 2025</time>
+
+              <div data-modal-text>
+                <p>
+                  If you'd like a reliable, goal-oriented, and self-actualized individual to join your team, Prajwal would be the perfect choice. 
+                  In my time working with Prajwal, I've come to know him as a promising individual with a unique combination of technical and interpersonal prowess. 
+                  Prajwal takes calculated decisions from a moral and cost-effective standpoint, 
+                  and he always keeps his team and employer at the forefront of his continuous improvement mindset. 
+                  I am proud to have worked with Prajwal and would gladly do so again!
+                </p>
+              </div>
+
+            </div>
+
+          </section>
+          
+        </div>
+
+
+        <!--
+          - clients
+        -->
+
+        <section class="clients">
+
+          <h3 class="h3 clients-title">Companies I’ve Worked With</h3>
+
+          <ul class="clients-list has-scrollbar">
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/logo-1-color.png" alt="client logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/logo-2-color.png" alt="client logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/logo-3-color.png" alt="client logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/logo-4-color.png" alt="client logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/logo-5-color.png" alt="client logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/logo-6-color.png" alt="client logo">
+              </a>
+            </li>
+
+          </ul>
+
+        </section>
+
+      </article>
+
+
+
+
+
+      <!--
+        - #RESUME
+      -->
+
+      <article class="resume" data-page="resume">
+
+        <header>
+          <h2 class="h2 article-title">Resume</h2>
+        </header>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+
+            <h3 class="h3">Education</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Southern Alberta Institute of Technology (SAIT)</h4>
+
+              <span>Sep 2024 – Apr 2025</span>
+
+              <p class="timeline-text">
+                Post-Diploma Certificate, Management & Leadership<br>
+                <strong>Concentration:</strong> Strategic Leadership, Change Management, and Business Consulting
+              </p>
+
+            </li>
+      
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Southern Alberta Institute of Technology (SAIT)</h4>
+
+              <span>Sep 2023 – Apr 2024</span>
+
+              <p class="timeline-text">
+                Post-Diploma Certificate, Data Analytics<br>
+                <strong>Awards:</strong> President’s Honor List with a Star (4.0 GPA)<br>
+                <strong>Concentration:</strong> Data Science, Business Intelligence, and Predictive Analytics
+              </p>
+
+            </li>
+
+      
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Visvesvaraya Technological University</h4>
+
+              <span>Aug 2016 – Aug 2021</span>
+
+              <p class="timeline-text">
+                Bachelor of Engineering, Electronics & Instrumentation<br>
+                <strong>Awards:</strong> Certificate of Merit, Techfest 2016 (IIT Bombay)<br>
+                <strong>Concentration:</strong> Embedded Systems, Programming Logic, and Automation
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+
+            <h3 class="h3">Experience</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Application Development Associate (QA/BA) – Accenture</h4>
+              <span>Oct 2021 – Aug 2023</span>
+              <p class="timeline-text">
+                • Contributed to enterprise-scale projects for global investment banks in both Business Analysis and QA roles.<br>
+                • Gathered and documented 50+ user stories by collaborating with stakeholders and SMEs using JIRA and Confluence.<br>
+                • Supported UAT by reviewing test cases and validating end-to-end workflows to ensure alignment with business needs.<br>
+                • Executed manual and automated tests using Selenium and Cucumber, reducing regression cycles by 20%.<br>
+                • Performed data validation and publishing checks in MarkLogic and Cloudflare, ensuring 100% content accuracy.<br>
+                • Collaborated with UI/UX, AEM, and backend teams to resolve issues and streamline delivery pipelines.<br>
+                • Completed Accenture’s TechLeap upskilling program focused on SQL, Excel, dashboarding, and data interpretation.<br>       
+              </p>
+
+            </li>
+      
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">Retail Associate – Costco Wholesale (Canada)</h4>
+              <span>Nov 2023 – Apr 2025</span>
+              <p class="timeline-text">
+                • Worked across multiple departments including cashier support, membership services, electronics, and loss prevention in a high-volume retail environment.<br>
+                • Assisted 300–400 members per 30 minutes during peak hours, delivering efficient and courteous service.<br>
+                • Cross-trained in seven roles, demonstrating adaptability and a strong ability to learn quickly on the job.<br>
+                • Gained exposure to Canadian workplace culture and developed transferable skills in communication, teamwork, and time management.<br>
+              </p>
+
+            </li>
+      
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">Founder – Prajwal Enterprise</h4>
+              <span>2019 – 2021</span>
+              <p class="timeline-text">
+                • Started a small service-based venture during engineering to offer affordable tech support and administrative services to local residents and small businesses.<br>
+                • Provided document printing, form filling, online application help, and basic mobile repairs to over 200 individuals with limited digital access.<br>
+                • Managed day-to-day operations including customer service, coordination, and budgeting while balancing academic commitments.<br>
+                • Gained hands-on experience in time management, communication, and small business operations while partially funding my own education.<br>
+              </p>
+
+            </li>
+      
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">Intern – VI Solutions (AI/ML)</h4>
+              <span>Jul 2020 – Aug 2020</span>
+              <p class="timeline-text">
+                • Supported the development of a LabVIEW-based health monitoring system by integrating sensor data with basic AI/ML concepts.<br>
+                • Collaborated with hardware teams to align Industrial IoT (IIoT) inputs with predictive model logic for sensor-driven decision-making.<br>
+                • Used Google Firebase for cloud-based data storage and real-time retrieval across connected devices.<br>
+                • Gained exposure to applying AI/ML in manufacturing and healthcare settings, laying the groundwork for data-informed business solutions.<br>
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
+
+        <section class="skill">
+
+          <h3 class="h3 skills-title">My skills</h3>
+        
+          <ul class="skills-list content-card">
+        
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">Business Analysis</h5>
+                <data value="90">90%</data>
+              </div>
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 90%;"></div>
+              </div>
+            </li>
+        
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">Management (Change, Strategy)</h5>
+                <data value="90">90%</data>
+              </div>
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 90%;"></div>
+              </div>
+            </li>
+        
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">Data Visualization (Power BI)</h5>
+                <data value="85">85%</data>
+              </div>
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 85%;"></div>
+              </div>
+
+            </li>
+        
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Python / R for Analytics</h5>
+                <data value="75">75%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 75%;"></div>
+              </div>
+
+            </li>
+        
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Testing & QA (Manual, Automation)</h5>
+                <data value="90">90%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 90%;"></div>
+              </div>
+            </li>
+        
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">Web Development</h5>
+                <data value="70">70%</data>
+              </div>
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 70%;"></div>
+              </div>
+            </li>
+        
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Machine Learning & AI</h5>
+                <data value="65">65%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 65%;"></div>
+              </div>
+
+            </li>
+        
+          </ul>
+        
+        </section>
+
+      </article>
+
+
+
+      <!--
+        - #PORTFOLIO
+      -->
+
+      <article class="portfolio" data-page="portfolio">
+
+        <header>
+          <h2 class="h2 article-title">Portfolio</h2>
+        </header>
+      
+        <section class="projects">
+      
+          <ul class="filter-list">
+            <li class="filter-item"><button class="active" data-filter-btn>All</button></li>
+            <li class="filter-item"><button data-filter-btn>Data Analytics</button></li>
+            <li class="filter-item"><button data-filter-btn>Consulting</button></li>
+            <li class="filter-item"><button data-filter-btn>Other Projects</button></li>
+          </ul>
+      
+          <div class="filter-select-box">
+            <button class="filter-select" data-select>
+              <div class="select-value" data-selecct-value>Select category</div>
+              <div class="select-icon"><ion-icon name="chevron-down"></ion-icon></div>
+            </button>
+      
+            <ul class="select-list">
+              <li class="select-item"><button data-select-item>All</button></li>
+              <li class="select-item"><button data-select-item>Data Analytics</button></li>
+              <li class="select-item"><button data-select-item>Consulting</button></li>
+              <li class="select-item"><button data-select-item>Other Projects</button></li>
+            </ul>
+          </div>
+      
+          <ul class="project-list">
+      
+            <!-- 🔹 DATA ANALYTICS -->
+      
+            <!-- AESO Energy Forecasting -->
+            <li class="project-item active" data-filter-item data-category="Data Analytics">
+              <a href="https://github.com/refusetoloose/AESO-ENERGY-CONSUMPTION-ANALYSIS" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-6.png" alt="AESO" loading="lazy"></figure>
+                <h3 class="project-title">AESO Energy Forecasting</h3>
+                <p class="project-category">Data Analytics</p>
+              </a>
+            </li>
+      
+            <!-- Calgary Housing Market Analysis -->
+            <li class="project-item active" data-filter-item data-category="Data Analytics">
+              <a href="https://github.com/refusetoloose/Calgary-Housing-Market-Analysis-2023" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-7.png" alt="Calgary Housing" loading="lazy"></figure>
+                <h3 class="project-title">Calgary Housing Market Analysis</h3>
+                <p class="project-category">Data Analytics</p>
+              </a>
+            </li>
+      
+            <!-- NYPD Stop & Frisk ML -->
+            <li class="project-item active" data-filter-item data-category="Data Analytics">
+              <a href="https://github.com/refusetoloose/NYPD-Stop-Question-and-Frisk" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-8.jpg" alt="NYPD" loading="lazy"></figure>
+                <h3 class="project-title">NYPD Stop & Frisk ML</h3>
+                <p class="project-category">Data Analytics</p>
+              </a>
+            </li>
+      
+            <!-- Online Retail Data Analysis -->
+            <li class="project-item active" data-filter-item data-category="Data Analytics">
+              <a href="https://github.com/refusetoloose/Online_Retail_Data_Analysis" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-1.jpg" alt="Retail" loading="lazy"></figure>
+                <h3 class="project-title">Online Retail Data Analysis</h3>
+                <p class="project-category">Data Analytics</p>
+              </a>
+            </li>
+      
+            <!-- Emergency Shelter Forecasting (Capstone) -->
+            <li class="project-item active" data-filter-item data-category="Data Analytics">
+              <a href="#" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-6.png" alt="Shelter Forecasting" loading="lazy"></figure>
+                <h3 class="project-title">Emergency Shelter Forecasting</h3>
+                <p class="project-category">Data Analytics</p>
+              </a>
+            </li>
+      
+            <!-- Machine Learning Project Repository -->
+            <li class="project-item active" data-filter-item data-category="Data Analytics">
+              <a href="https://github.com/refusetoloose/Machine_Learning_Project_Repository" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-3.jpg" alt="ML Repo" loading="lazy"></figure>
+                <h3 class="project-title">Machine Learning Project Repo</h3>
+                <p class="project-category">Data Analytics</p>
+              </a>
+            </li>
+      
+            <!-- Pyro & Monte Carlo Methods -->
+            <li class="project-item active" data-filter-item data-category="Data Analytics">
+              <a href="https://github.com/refusetoloose/Pyro-and-Monte-Carlo-Methods" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-5.png" alt="Pyro Monte Carlo" loading="lazy"></figure>
+                <h3 class="project-title">Pyro & Monte Carlo Methods</h3>
+                <p class="project-category">Data Analytics</p>
+              </a>
+            </li>
+      
+            <!-- Rule-Based Systems & Logic -->
+            <li class="project-item active" data-filter-item data-category="Data Analytics">
+              <a href="https://github.com/refusetoloose/Rule-Based-Systems-and-First-Order-Logic-Repository" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-8.jpg" alt="Rule-Based Logic" loading="lazy"></figure>
+                <h3 class="project-title">Rule-Based & Logic Systems</h3>
+                <p class="project-category">Data Analytics</p>
+              </a>
+            </li>
+      
+            <!-- Deep Learning IMDB & Seedling -->
+            <li class="project-item active" data-filter-item data-category="Data Analytics">
+              <a href="https://github.com/refusetoloose/Deep_Learning_IMDB_Seedling" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-4.png" alt="Deep Learning" loading="lazy"></figure>
+                <h3 class="project-title">Deep Learning – IMDB & Seedling</h3>
+                <p class="project-category">Data Analytics</p>
+              </a>
+            </li>
+      
+            <!-- 🔹 CONSULTING -->
+      
+            <!-- Healthcare Academy Strategy -->
+            <li class="project-item active" data-filter-item data-category="Consulting">
+              <a href="https://github.com/refusetoloose/Healthcare-Academy-Strategy-Plan" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-5.png" alt="Healthcare" loading="lazy"></figure>
+                <h3 class="project-title">Healthcare Academy Strategy</h3>
+                <p class="project-category">Consulting</p>
+              </a>
+            </li>
+      
+            <!-- Strategic Business Analysis – Pason -->
+            <li class="project-item active" data-filter-item data-category="Consulting">
+              <a href="https://github.com/refusetoloose/Strategic-Business-Analysis-Pason-Systems" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-3.jpg" alt="Pason" loading="lazy"></figure>
+                <h3 class="project-title">Strategic Analysis – Pason Systems</h3>
+                <p class="project-category">Consulting</p>
+              </a>
+            </li>
+      
+            <!-- Salesforce Change Toolkit – SpartanLync -->
+            <li class="project-item active" data-filter-item data-category="Consulting">
+              <a href="#" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-2.png" alt="Salesforce Change" loading="lazy"></figure>
+                <h3 class="project-title">Salesforce Change Toolkit – SpartanLync</h3>
+                <p class="project-category">Consulting</p>
+              </a>
+            </li>
+      
+            <!-- 🔹 OTHER PROJECTS -->
+      
+            <!-- Fitness & Wellness Planner -->
+            <li class="project-item active" data-filter-item data-category="Other Projects">
+              <a href="https://github.com/refusetoloose/Fitness-Wellness-Project-Management" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-4.png" alt="Fitness" loading="lazy"></figure>
+                <h3 class="project-title">Wellness Program Planner</h3>
+                <p class="project-category">Other Projects</p>
+              </a>
+            </li>
+      
+            <!-- Intelligent Packaging Solution (Report + ResearchGate) -->
+            <li class="project-item active" data-filter-item data-category="Other Projects">
+              <a href="https://www.researchgate.net/publication/354802887_Intelligent_Packaging_Solution_for_Safe_And_Secured_Delivery_JSS_ACADEMY_OF_TECHNICAL_EDUCATION" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-2.png" alt="Intelligent Packaging" loading="lazy"></figure>
+                <h3 class="project-title">Intelligent Packaging Solution</h3>
+                <p class="project-category">Other Projects</p>
+              </a>
+            </li>
+      
+            <!-- Cultural Sensitivity in Advertising -->
+            <li class="project-item active" data-filter-item data-category="Other Projects">
+              <a href="https://www.researchgate.net/publication/389561149_Navigating_Cultural_Sensitivity_in_Business_Advertising" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-9.png" alt="Cultural Research" loading="lazy"></figure>
+                <h3 class="project-title">Cultural Sensitivity in Advertising</h3>
+                <p class="project-category">Other Projects</p>
+              </a>
+            </li>
+      
+            <!-- Review: Intelligent Packaging -->
+            <li class="project-item active" data-filter-item data-category="Other Projects">
+              <a href="https://www.researchgate.net/publication/349121386_Review_on_Intelligent_Packaging_Solution_for_Safe_and_Secured_Delivery" target="_blank">
+                <figure class="project-img"><div class="project-item-icon-box"><ion-icon name="eye-outline"></ion-icon></div>
+                <img src="./assets/images/project-6.png" alt="Packaging Review" loading="lazy"></figure>
+                <h3 class="project-title">Review: Intelligent Packaging</h3>
+                <p class="project-category">Other Projects</p>
+              </a>
+            </li>
+      
+          </ul>
+      
+        </section>
+      </article>
+
+
+
+
+
+      <!--
+        - #BLOG
+      -->
+
+      <article class="blog" data-page="blog">
+
+        <header>
+          <h2 class="h2 article-title">Blog</h2>
+        </header>
+      
+        <section class="blog-posts">
+          <ul class="blog-posts-list">
+      
+            <!-- Blog 1 -->
+            <li class="blog-post-item">
+              <a href="https://www.linkedin.com/posts/prajwal-nagaraj_hereatsait-sait-capcon2025-activity-7318818197166510081-XRe1" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-1.jpg" alt="CapCon 2025" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Event</p><span class="dot"></span><time datetime="2025-04-18">Apr 18, 2025</time></div>
+                  <h3 class="h3 blog-item-title">CapCon 2025: Forecasting for Calgary Shelters</h3>
+                  <p class="blog-text">Presented our forecasting dashboard built with R and Power BI at SAIT’s CapCon 2025.</p>
+                </div>
+              </a>
+            </li>
+      
+            <!-- Blog 2 -->
+            <li class="blog-post-item">
+              <a href="https://www.linkedin.com/posts/prajwal-nagaraj_im-happy-to-share-that-ive-obtained-a-new-activity-7300384094838734848-26hK" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-2.jpg" alt="IBM Certification" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Certifications</p><span class="dot"></span><time datetime="2025-03-15">Mar 15, 2025</time></div>
+                  <h3 class="h3 blog-item-title">Enterprise Design Thinking by IBM</h3>
+                  <p class="blog-text">Earned IBM’s Design Thinking badge — tackling problems with empathy and iteration.</p>
+                </div>
+              </a>
+            </li>
+      
+            <!-- Blog 3 -->
+            <li class="blog-post-item">
+              <a href="https://www.wingfinder.com/result/share/-h5A5LfhAEwbk2uUYt8SO?lang=en" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-3.jpg" alt="Wingfinder" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Personality</p><span class="dot"></span><time datetime="2025-02-06">Feb 6, 2025</time></div>
+                  <h3 class="h3 blog-item-title">What Makes Me Unique? (Wingfinder)</h3>
+                  <p class="blog-text">My Wingfinder results: Reserved, Adaptable, Achiever, Intuitive — a unique mix.</p>
+                </div>
+              </a>
+            </li>
+      
+            <!-- Blog 4 -->
+            <li class="blog-post-item">
+              <a href="https://www.linkedin.com/learning/certificates/9278ea565c02a30b44c4be20b3c2cb103077cd3db4d20c1e12e5cab48b862235?u=2245281" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-4.jpg" alt="High-Performance Teams" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Learning</p><span class="dot"></span><time datetime="2025-01-20">Jan 20, 2025</time></div>
+                  <h3 class="h3 blog-item-title">Course Complete: High-Performance Teams</h3>
+                  <p class="blog-text">Completed course on building trust, aligning goals, and driving team results.</p>
+                </div>
+              </a>
+            </li>
+      
+            <!-- Blog 5 -->
+            <li class="blog-post-item">
+              <a href="https://www.linkedin.com/pulse/proj-406-data-analytics-capstone-project-presentation-uizhc" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-5.jpg" alt="SAIT Capstone" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Recognition</p><span class="dot"></span><time datetime="2024-12-18">Dec 18, 2024</time></div>
+                  <h3 class="h3 blog-item-title">Repost: SAIT Capstone Celebration</h3>
+                  <p class="blog-text">Reposted SAIT’s feature on our data analytics capstone presentation.</p>
+                </div>
+              </a>
+            </li>
+      
+            <!-- Blog 6 -->
+            <li class="blog-post-item">
+              <a href="https://www.linkedin.com/learning/certificates/5327ee7b7722657fd0dc29d6dbedfe163a8a434fb571e38fc32943b0d9094e37?u=2245281" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-6.jpg" alt="Self-Awareness" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Soft Skills</p><span class="dot"></span><time datetime="2024-12-12">Dec 12, 2024</time></div>
+                  <h3 class="h3 blog-item-title">Becoming Self-Aware</h3>
+                  <p class="blog-text">Finished a course on emotional intelligence and self-awareness.</p>
+                </div>
+              </a>
+            </li>
+      
+            <!-- Blog 7 -->
+            <li class="blog-post-item">
+              <a href="https://secure.plum.io/en/p/7IMYxSnTB_qT-YoqCfxz5w" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-1.jpg" alt="Plum Talent" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Personality</p><span class="dot"></span><time datetime="2024-11-30">Nov 30, 2024</time></div>
+                  <h3 class="h3 blog-item-title">Plum Talent Strengths</h3>
+                  <p class="blog-text">Plum assessment results: Innovation, Adaptation, and Embracing Diversity.</p>
+                </div>
+              </a>
+            </li>
+      
+            <!-- Blog 8 -->
+            <li class="blog-post-item">
+              <a href="https://www.linkedin.com/learning/certificates/338b3fd27c7a4f4433a9f5ac0c99b6db8586f7fdd276c45deac0036a0d68e09a?u=2245281" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-2.jpg" alt="Business Relationships" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Learning</p><span class="dot"></span><time datetime="2024-11-15">Nov 15, 2024</time></div>
+                  <h3 class="h3 blog-item-title">Building Business Relationships</h3>
+                  <p class="blog-text">Learned to build rapport, communicate authentically, and nurture connections.</p>
+                </div>
+              </a>
+            </li>
+      
+            <!-- Blog 9 -->
+            <li class="blog-post-item">
+              <a href="https://www.linkedin.com/learning/certificates/61a98cf0e1228059b15a3a0a9a9c8f1d5a782a73f496f21777bd1f867abd5a7b?u=2245281" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-3.jpg" alt="Entrepreneurial Mindset" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Learning</p><span class="dot"></span><time datetime="2024-11-10">Nov 10, 2024</time></div>
+                  <h3 class="h3 blog-item-title">Entrepreneurial Mindset Course</h3>
+                  <p class="blog-text">Completed course on innovation, taking initiative, and driving impact.</p>
+                </div>
+              </a>
+            </li>
+      
+            <!-- Blog 10 -->
+            <li class="blog-post-item">
+              <a href="https://www.linkedin.com/learning/certificates/652ffdd7192ca608b9606bdd63179b58a3049b15f95070b15fbe1be2977a540b?u=2245281" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-4.jpg" alt="Resilience" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Soft Skills</p><span class="dot"></span><time datetime="2024-10-28">Oct 28, 2024</time></div>
+                  <h3 class="h3 blog-item-title">Building Resilience</h3>
+                  <p class="blog-text">Gained skills for staying adaptable and strong through tough situations.</p>
+                </div>
+              </a>
+            </li>
+      
+            <!-- Blog 11 -->
+            <li class="blog-post-item">
+              <a href="https://www.linkedin.com/posts/prajwal-nagaraj_find-your-disc-type-and-reveal-your-true-activity-7245535893329977344-AX82" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-5.jpg" alt="DISC Personality" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Personality</p><span class="dot"></span><time datetime="2024-10-01">Oct 1, 2024</time></div>
+                  <h3 class="h3 blog-item-title">My DISC Personality: Support</h3>
+                  <p class="blog-text">My DISC type is Support — people-focused, dependable, and team-oriented.</p>
+                </div>
+              </a>
+            </li>
+      
+            <!-- Blog 12 -->
+            <li class="blog-post-item">
+              <a href="https://www.linkedin.com/posts/prajwal-nagaraj_im-happy-to-share-that-ive-obtained-a-new-activity-7051968607748030466-sQES" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-6.jpg" alt="Oracle Cloud" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Certifications</p><span class="dot"></span><time datetime="2023-04-10">Apr 10, 2023</time></div>
+                  <h3 class="h3 blog-item-title">Oracle Cloud Foundations Certified</h3>
+                  <p class="blog-text">Certified in Oracle Cloud Infrastructure Foundations — business meets cloud.</p>
+                </div>
+              </a>
+            </li>
+      
+            <!-- Blog 13 -->
+            <li class="blog-post-item">
+              <a href="https://www.linkedin.com/posts/prajwal-nagaraj_accenture-activity-7051965075510738944-XL_W" target="_blank">
+                <figure class="blog-banner-box"><img src="./assets/images/blog-1.jpg" alt="CSR Visit" loading="lazy"></figure>
+                <div class="blog-content">
+                  <div class="blog-meta"><p class="blog-category">Volunteering</p><span class="dot"></span><time datetime="2023-03-10">Mar 10, 2023</time></div>
+                  <h3 class="h3 blog-item-title">CSR Visit to Mobility India</h3>
+                  <p class="blog-text">Visited Mobility India with Accenture CSR — inspired by inclusion and innovation.</p>
+                </div>
+              </a>
+            </li>
+      
+          </ul>
+        </section>
+      
+      </article>
+
+
+
+
+
+      <!--
+        - #CONTACT
+      -->
+
+      <article class="contact" data-page="contact">
+
+        <header>
+          <h2 class="h2 article-title">Contact</h2>
+        </header>
+
+        <!-- <section class="mapbox single-map">
+          <figure>
+            <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19119302.43365804!2d-116.73720973810397!3d54.19956842864179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b0d03d337cc6ad9%3A0x9968b72aa2438fa5!2sCanada!5e0!3m2!1sen!2sca!4v1745038955047!5m2!1sen!2sca" 
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+          </figure>
+        </section> -->
+
+        <!-- Two Maps Layout -->
+
+        <section class="mapbox">
+          <figure>
+            <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d160600.6476930885!2d-114.2526383671341!3d51.027507404787436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x537170039f843fd5%3A0x266d3bb1b652b63a!2sCalgary%2C%20AB!5e0!3m2!1sen!2sca!4v1745028668355!5m2!1sen!2sca" 
+            loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+          </figure>
+
+          <figure>
+            <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d369981.97091997194!2d-80.11808599089869!3d43.57563096359113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b469fe76b05b7%3A0x3146cbed75966db!2sMississauga%2C%20ON!5e0!3m2!1sen!2sca!4v1745028693166!5m2!1sen!2sca" 
+            loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+          </figure>
+        </section>
+        
+      </section>
+
+        <section class="contact-form">
+
+          <h3 class="h3 form-title">Contact Form</h3>
+
+          <form action="https://formspree.io/f/xgvagwga" method="POST" class="form" data-form>
+
+            <div class="input-wrapper">
+              <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
+
+              <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input>
+            </div>
+
+            <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
+
+            <button class="form-btn" type="submit" disabled data-form-btn>
+              <ion-icon name="paper-plane"></ion-icon>
+              <span>Send Message</span>
+            </button>
+
+            <div style="text-align: center;">
+            <p class="form-success hidden" style="margin-top: 10px; color: var(--orange-yellow-crayola);">
+              Thanks! I'll get back to you soon.
+            </div>
+            </p>
+          
+
+          </form>
+
+        </section>
+
+      </article>
+
+    </div>
+
+  </main>
+
+
+
+
+
+
+  <!--
+    - custom js link
+  -->
+  <script src="./assets/js/script.js"></script>
+
+  <!--
+    - ionicon link
+  -->
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>
