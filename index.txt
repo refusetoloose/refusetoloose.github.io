@@ -1,0 +1,363 @@
+Personal Portfolio
+
+# sidebar
+
+alt = Prajwal Nagaraj
+Prajwal Nagaraj
+Business Analyst | Data Consultant
+
+Show Contacts
+
+Email
+prajwalnagaraj1998@gmail.com
+
+Phone
++1 (368)-299-2673
+
+Birthday
+March, 1998
+
+Location
+Canada
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I’m a data-driven problem solver with experience in business analysis, consulting, and analytics and I back that up with results.
+
+I’ve delivered impactful projects across energy forecasting, housing trends, nonprofit strategy, and CRM change management. At Accenture, I supported enterprise banking systems by managing 100+ JIRA tickets, writing user stories, and facilitating UAT in Agile teams.
+
+My technical toolkit includes:
+  • Data & Visualization: Power BI, Tableau, SQL, Excel
+  • Programming & Modeling: Python, R, Jupyter, Machine Learning
+  • Testing: Selenium, Manual/Automation, UAT
+  • Collaboration & Design: JIRA, Confluence, Figma
+
+I balance analytical thinking with stakeholder engagement and have maintained a 4.0 GPA across two post-diploma programs. As an international student, I’ve developed resilience, leadership, and cross-functional teamwork.
+
+I’m currently open to full-time opportunities in Business Analysis, Data Analytics, or Consulting.
+Available immediately under a 3-year Canadian PGWP (no sponsorship required).
+
+In my free time, I enjoy gaming, exploring new tech tools, and working on mini side projects that fuel my creativity and curiosity.
+
+🤝 Let’s connect
+I’m always open to collaboration, innovation, and solving meaningful problems together.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+## Recommendations
+
+Recommendations
+
+alt = Sadeem Shaikh
+Sadeem Shaikh
+If you'd like a reliable, goal-oriented, and self-actualized individual to join your team, Prajwal would be the perfect choice. In my time working with Prajwal, I've come to know him as a promising individual with a unique combination of technical and interpersonal prowess. Prajwal takes calculated decisions from a moral and cost-effective standpoint, and he always keeps his team and employer at the forefront of his continuous improvement mindset. I am proud to have worked with Prajwal and would gladly do so again!
+
+alt = Nermine Aladdin Mahmoud
+Nermine Aladdin Mahmoud
+I have had the pleasure of mentoring Prajwal Nagaraj during their time as a data analyst student, and I am delighted to provide my highest recommendation.
+
+During Prajwal's time as a Data Analyst Student at SAIT, Prajwal demonstrated very good proficiency in analyzing data and extracting actionable insights. Their keen attention to details, strong problem-solving abilities, and proficiency in data analysis tools and the Python programming language have been impressive.
+
+Prajwal possesses a natural curiosity and enthusiasm for tackling complex data challenges, and their ability to communicate insights effectively has been invaluable. They approach every task with enthusiasm, professionalism, and a commitment to excellence. As a team member, Prajwal has been a reliable and proactive contributor, consistently delivering high-quality results.
+
+I have no doubt that Prajwal Nagaraj will excel in any data analyst role they undertake. Their passion for data analysis, coupled with their strong technical skills and exemplary work ethic, make them a standout candidate. I highly recommend Prajwal for opportunities in the field of data analysis and am confident that they will make significant contributions to any organization.
+
+alt = Vilas Sangle
+Vilas Sangle
+Prajwal had done a fantastic job in a recent project where we worked together. As a mentor for him I found it very easy to leverage his knowledge for our project. Prajwal is a very proactive, quick learner, and responsible professional. He has very good interpersonal skills. He respects his team very well. Prajwal is calm in nature and so he's able to capture things very well. Prajwal's technical and analytical skills are very strong which makes him and stands him very differently among others. All the best for your future assignments Prajwal.
+
+
+## Companies I’ve Worked With
+
+Companies
+
+alt = Companies logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Southern Alberta Institute of Technology (SAIT)
+Post-Diploma Certificate, Management & Leadership
+Sep 2024 – Apr 2025
+Concentration: Strategic Leadership, Change Management, and Business Consulting
+
+Southern Alberta Institute of Technology (SAIT)
+Post-Diploma Certificate, Data Analytics
+Sep 2023 – Apr 2024
+Awards: President’s Honor List with a Star (4.0 GPA)
+Concentration: Data Science, Business Intelligence, and Predictive Analytics
+
+Visvesvaraya Technological University
+Bachelor of Engineering, Electronics & Instrumentation
+Aug 2016 – Aug 2021
+Awards: Certificate of Merit, Techfest 2016 (IIT Bombay)
+Concentration: Embedded Systems, Programming Logic, and Automation
+
+Alva's College of Education
+Pre-University, High School
+May 2014 - May 2016
+Concentration: Physics, Chemistry, Maths and Computer Science
+
+Experience
+
+Application Development Associate (BA/QA) – Accenture
+Oct 2021 – Aug 2023
+• Contributed to enterprise-scale projects for global investment banks in both Business Analysis and QA roles.
+• Gathered and documented 50+ user stories by collaborating with stakeholders and SMEs using JIRA and Confluence.
+• Supported UAT by reviewing test cases and validating end-to-end workflows to ensure alignment with business needs.
+• Executed manual and automated tests using Selenium and Cucumber, reducing regression cycles by 20%.
+• Performed data validation and publishing checks in MarkLogic and Cloudflare, ensuring 100% content accuracy.
+• Collaborated with UI/UX, AEM, and backend teams to resolve issues and streamline delivery pipelines.
+• Completed Accenture’s TechLeap upskilling program focused on SQL, Excel, dashboarding, and data interpretation.
+
+Retail Associate – Costco Wholesale (Canada)
+Nov 2023 – Apr 2025
+• Worked across multiple departments including cashier support, membership services, electronics, and loss prevention in a high-volume retail environment.
+• Assisted 300–400 members per 30 minutes during peak hours, delivering efficient and courteous service.
+• Cross-trained in seven roles, demonstrating adaptability and a strong ability to learn quickly on the job.
+• Gained exposure to Canadian workplace culture and developed transferable skills in communication, teamwork, and time management.
+
+Founder – Prajwal Enterprise
+2019 – 2021
+• Started a small service-based venture during engineering to offer affordable tech support and administrative services to local residents and small businesses.
+• Provided document printing, form filling, online application help, and basic mobile repairs to over 200 individuals with limited digital access.
+• Managed day-to-day operations including customer service, coordination, and budgeting while balancing academic commitments.
+• Gained hands-on experience in time management, communication, and small business operations while partially funding my own education.
+
+Intern – VI Solutions (AI/ML)
+Jul 2020 – Aug 2020
+• Supported the development of a LabVIEW-based health monitoring system by integrating sensor data with basic AI/ML concepts.
+• Collaborated with hardware teams to align Industrial IoT (IIoT) inputs with predictive model logic for sensor-driven decision-making.
+• Used Google Firebase for cloud-based data storage and real-time retrieval across connected devices.
+• Gained exposure to applying AI/ML in manufacturing and healthcare settings, laying the groundwork for data-informed business solutions.
+
+My skills
+
+Business Analysis
+90%
+Management (Change, Strategy)
+90%
+Data Visualization (Power BI)
+85%
+Python / R for Analytics
+75%
+Testing & QA (Manual, Automation)
+90%
+Web Development
+70%
+Machine Learning & AI
+65%
+
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Data Analytics
+Consulting
+Other Projects
+
+alt = AESO Forecasting
+AESO Energy Forecasting (Python + R)
+Data Analytics
+
+alt = Calgary Housing Market
+Calgary Housing Market Analysis
+Data Analytics
+
+alt = NYPD ML Bias Study
+NYPD Stop & Frisk ML Bias Analysis
+Data Analytics
+
+alt = Online Retail Analytics
+Online Retail Data Analysis
+Data Analytics
+
+alt = Shelter Forecasting
+Emergency Shelter Forecasting (CapCon 2025)
+Data Analytics
+
+alt = ML Project Repo
+Machine Learning Project Repository
+Data Analytics
+
+alt = Monte Carlo Simulations
+Pyro & Monte Carlo Methods
+Data Analytics
+
+alt = Logic Systems
+Rule-Based Systems & First Order Logic
+Data Analytics
+
+alt = Deep Learning IMDB
+Deep Learning – IMDB & Seedling Project
+Data Analytics
+
+alt = CRM Toolkit
+Salesforce Change Toolkit – SpartanLync
+Consulting
+
+alt = Pason Strategy
+Strategic Analysis – Pason Systems
+Consulting
+
+alt = Healthcare Strategy
+Healthcare Academy Strategy Plan
+Consulting
+
+alt = Wellness Tracker
+Wellness Program Management Planner
+Other Projects
+
+alt = Smart Packaging
+Intelligent Packaging Solution
+Other Projects
+
+alt = Cultural Sensitivity
+Navigating Cultural Sensitivity in Ads
+Other Projects
+
+alt = Packaging Review
+Review: Intelligent Packaging (RG Research)
+Other Projects
+
+alt = Small Business Planning
+Strategic Planning for Small-Scale Business
+Other Projects
+
+alt = Portfolio Website
+refusetoloose.github.io (Portfolio Site)
+Other Projects
+
+
+# blog
+
+Blog
+
+alt = CapCon 2025
+Projects
+Apr 18, 2025
+CapCon 2025: Forecasting for Calgary Shelters
+Presented our forecasting dashboard built with R and Power BI at SAIT’s CapCon 2025.
+
+alt = IBM Design Thinking
+Certifications
+Mar 15, 2025
+Enterprise Design Thinking by IBM
+Earned IBM’s Design Thinking badge — tackling problems with empathy and iteration.
+
+alt = Wingfinder Personality
+Personality
+Feb 6, 2025
+What Makes Me Unique? (Wingfinder)
+My Wingfinder results: Reserved, Adaptable, Achiever, Intuitive — a unique mix.
+
+alt = High Performance Teams
+Learning
+Jan 20, 2025
+Course Complete: High-Performance Teams
+Completed course on building trust, aligning goals, and driving team results.
+
+alt = Capstone Repost
+Recognition
+Dec 18, 2024
+Repost: SAIT Capstone Celebration
+Reposted SAIT’s feature on our data analytics capstone presentation.
+
+alt = Self-Awareness Training
+Soft Skills
+Dec 12, 2024
+Becoming Self-Aware
+Finished a course on emotional intelligence and self-awareness.
+
+alt = Plum Profile
+Personality
+Nov 30, 2024
+Plum Talent Strengths
+Plum assessment results: Innovation, Adaptation, and Embracing Diversity.
+
+alt = Business Relationships
+Learning
+Nov 15, 2024
+Building Business Relationships
+Learned to build rapport, communicate authentically, and nurture connections.
+
+alt = Entrepreneurial Thinking
+Learning
+Nov 10, 2024
+Entrepreneurial Mindset Course
+Completed course on innovation, taking initiative, and driving impact.
+
+alt = Resilience Building
+Soft Skills
+Oct 28, 2024
+Building Resilience
+Gained skills for staying adaptable and strong through tough situations.
+
+alt = DISC Profile
+Personality
+Oct 1, 2024
+My DISC Personality: Support
+My DISC type is Support — people-focused, dependable, and team-oriented.
+
+alt = Oracle Cloud Certified
+Certifications
+Apr 10, 2023
+Oracle Cloud Foundations Certified
+Certified in Oracle Cloud Infrastructure Foundations — business meets cloud.
+
+alt = Accenture CSR
+Volunteering
+Mar 10, 2023
+CSR Visit to Mobility India
+Visited Mobility India with Accenture CSR — inspired by inclusion and innovation.
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
