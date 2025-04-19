@@ -1912,4 +1912,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .timeline-text { max-width: 700px; }
 
+  .timeline-text strong {
+    font-weight: var(--fw-600); /* Or use 700 for heavier bold */
+  }
+  
 }
