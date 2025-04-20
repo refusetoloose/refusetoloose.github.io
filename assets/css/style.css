@@ -1521,13 +1521,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .clients-item { min-width: calc(33.33% - 35px); }
 
- /* === Force visible scrollbars for testimonials and clients on mobile === */
- .testimonials-list,
- .clients-list {
-   overflow-x: scroll;
-   -webkit-overflow-scrolling: touch;
- }
-
   /**
    * #RESUME
    */
