@@ -754,7 +754,11 @@ main {
 .clients-item img:hover { filter: grayscale(0); }
 
 
-
+.testimonials-list,
+.clients-list {
+  cursor: grab;
+  user-select: none;
+}
 
 
 /*-----------------------------------*\

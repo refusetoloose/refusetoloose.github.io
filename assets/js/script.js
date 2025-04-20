@@ -193,3 +193,55 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+// === Enable click-and-drag scrolling for testimonials and clients (desktop) ===
+function enableDragScroll(containerSelector) {
+  const container = document.querySelector(containerSelector);
+  if (!container) return;
+
+  let isDown = false;
+  let startX;
+  let scrollLeft;
+  let isDragging = false;
+
+  container.addEventListener("mousedown", (e) => {
+    isDown = true;
+    isDragging = false;
+    container.classList.add("dragging");
+    startX = e.pageX - container.offsetLeft;
+    scrollLeft = container.scrollLeft;
+  });
+
+  container.addEventListener("mouseleave", () => {
+    isDown = false;
+    container.classList.remove("dragging");
+  });
+
+  container.addEventListener("mouseup", () => {
+    isDown = false;
+    container.classList.remove("dragging");
+  });
+
+  container.addEventListener("mousemove", (e) => {
+    if (!isDown) return;
+    e.preventDefault();
+    isDragging = true;
+    const x = e.pageX - container.offsetLeft;
+    const walk = (x - startX) * 2;
+    container.scrollLeft = scrollLeft - walk;
+  });
+
+  const items = container.querySelectorAll("[data-testimonials-item], .clients-item");
+  items.forEach((item) => {
+    item.addEventListener("click", (e) => {
+      if (isDragging) {
+        e.stopPropagation();
+        e.preventDefault();
+      }
+    });
+  });
+}
+
+// Apply to your carousel sections
+enableDragScroll(".testimonials-list");
+enableDragScroll(".clients-list");
