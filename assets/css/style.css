@@ -308,7 +308,13 @@ main {
   transition: var(--transition-2);
 }
 
-.sidebar.active { max-height: 405px; }
+.sidebar.active { 
+  /* max-height: 405px;  */
+  max-height: unset;        
+  height: auto;
+  overflow-y: auto;          
+  padding-bottom: 20px;      
+}
 
 .sidebar-info {
   position: relative;
